@@ -21,7 +21,7 @@ Once we start the project, a menu opens showing us various options including Mod
 
 ## Authors
 
-* **Ashok Kumar Saini** - *Initial work* - [Project](https://github.com/sainiAshokKumar)
+* **Gajendra Saran** - *Initial work* - [Project](https://github.com/sainiAshokKumar)
 
 ## License
 
